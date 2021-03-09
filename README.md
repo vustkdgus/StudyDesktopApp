@@ -7,7 +7,7 @@ Login App Template
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Login.png > </img>
 
-<hr>
+<br>
 
 RGB Color Scroller Template
 
