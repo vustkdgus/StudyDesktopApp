@@ -11,4 +11,4 @@ Login App Template
 
 RGB Color Scroller Template
 
-[RGB Scroller](https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/RGB%20Color%20Scroller.png)
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/RGB%20Color%20Scroller.png > </img>
