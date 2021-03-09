@@ -5,7 +5,7 @@ C# 데스크톱 앱 개발 학습 리포지토리
 
 Login App Template
 
-[Login](https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Login.png)
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Login.png > </img>
 
 <hr>
 
