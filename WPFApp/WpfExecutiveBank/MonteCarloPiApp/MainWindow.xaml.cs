@@ -63,6 +63,7 @@ namespace MonteCarloPiApp
             LblStatus.Text = $"n : {count}, In : {iCnt}, Out : {oCnt}, PI : {pi}";
             Canvas.SetLeft(rect, x);
             Canvas.SetTop(rect, y);
+            CanPi.Children.Add(rect);
         }
     }
 }

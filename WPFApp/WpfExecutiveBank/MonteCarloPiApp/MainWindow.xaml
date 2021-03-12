@@ -8,7 +8,7 @@
         Title="MainWindow" Height="495" Width="450" Initialized="Window_Initialized">
     <DockPanel>
         <Grid x:Name="GrdMain" DockPanel.Dock="Top" Margin="10">
-            <Canvas Height="400" Width="400">
+            <Canvas Name="CanPi" Height="400" Width="400">
                 <Rectangle Stroke="Black" Width="400" Height="400"></Rectangle>
                 <Ellipse Stroke="Black" Width="400" Height="400"></Ellipse>
             </Canvas>
