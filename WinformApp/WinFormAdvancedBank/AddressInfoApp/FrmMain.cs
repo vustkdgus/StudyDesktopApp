@@ -111,7 +111,8 @@ namespace AddressInfoApp
                 MessageBox.Show("삭제하려는 데이터를 선택하십시오.");
                 return;
             }
-            else
+
+            if(MessageBox.Show("삭제하시겠습니까?", "삭제",MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 using (SqlConnection conn = new SqlConnection(connString))
                 {
@@ -135,6 +136,9 @@ namespace AddressInfoApp
                 ClearInput();
                 RefreshData();
             }
+           
+                
+            
         }
 
         private void TxtFullName_KeyPress(object sender, KeyPressEventArgs e)
