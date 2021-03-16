@@ -12,3 +12,21 @@ Login App Template
 RGB Color Scroller Template
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/RGB%20Color%20Scroller.png > </img>
+
+<br>
+
+Calculator
+
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Calculator.png > </img>
+
+<br>
+
+DB Login
+
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/LoginPage.png> </img>
+
+<br>
+
+IoTSensor Monitoring
+
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Monitoring.png> </img>
