@@ -102,7 +102,7 @@ namespace BookRentalShopApp
             this.TxtPassword.CustomButton.Visible = false;
             this.TxtPassword.Lines = new string[0];
             this.TxtPassword.Location = new System.Drawing.Point(155, 104);
-            this.TxtPassword.MaxLength = 32767;
+            this.TxtPassword.MaxLength = 20;
             this.TxtPassword.Name = "TxtPassword";
             this.TxtPassword.PasswordChar = '●';
             this.TxtPassword.ScrollBars = System.Windows.Forms.ScrollBars.None;
@@ -122,7 +122,7 @@ namespace BookRentalShopApp
             this.BtnLogin.Location = new System.Drawing.Point(95, 152);
             this.BtnLogin.Name = "BtnLogin";
             this.BtnLogin.Size = new System.Drawing.Size(88, 30);
-            this.BtnLogin.TabIndex = 2;
+            this.BtnLogin.TabIndex = 3;
             this.BtnLogin.Text = "로그인";
             this.BtnLogin.UseSelectable = true;
             this.BtnLogin.Click += new System.EventHandler(this.BtnLogin_Click);
@@ -132,7 +132,7 @@ namespace BookRentalShopApp
             this.BtnCancel.Location = new System.Drawing.Point(201, 152);
             this.BtnCancel.Name = "BtnCancel";
             this.BtnCancel.Size = new System.Drawing.Size(88, 30);
-            this.BtnCancel.TabIndex = 3;
+            this.BtnCancel.TabIndex = 4;
             this.BtnCancel.Text = "취소";
             this.BtnCancel.UseSelectable = true;
             this.BtnCancel.Click += new System.EventHandler(this.BtnCancel_Click);

@@ -27,6 +27,7 @@ namespace BookRentalShopApp
 
         private void BtnLogin_Click(object sender, EventArgs e)
         {
+            var strUserId = ""; //
             //MessageBox.Show("로그인 처리!");
             if (string.IsNullOrEmpty(TxtUserId.Text) || string.IsNullOrEmpty(TxtPassword.Text))
             {
@@ -40,16 +41,48 @@ namespace BookRentalShopApp
                 {
                     if (conn.State == ConnectionState.Closed) conn.Open();
 
+                    var query = "SELECT userID FROM membertbl " +
+                                " WHERE userID = @userID " +
+                                "   AND passwords = @passwords " +
+                                "   AND levels = 'S' ";
+
                     // SqlCommand 생성
-                    SqlCommand cmd = new SqlCommand();
+                    SqlCommand cmd = new SqlCommand(query, conn);
 
                     //SqlInjection 해킹 막기위해서 사용
-                    SqlParameter param;
+                    SqlParameter pUserID = new SqlParameter("@userId", SqlDbType.VarChar, 20);
+                    pUserID.Value = TxtUserId.Text;
+                    cmd.Parameters.Add(pUserID);
+
+                    SqlParameter pPasswords = new SqlParameter("@passwords", SqlDbType.VarChar, 20);
+                    pPasswords.Value = TxtPassword.Text;
+                    cmd.Parameters.Add(pPasswords);
 
                     // SqlDataReader 실행(1)
                     SqlDataReader reader = cmd.ExecuteReader();
 
-                    // reader로 처리.
+                    // reader로 처리...
+                    reader.Read();
+                    strUserId = reader["userID"] != null ? reader["userID"].ToString() : "";
+                    reader.Close();
+                    // 확인
+                    //MessageBox.Show(strUserId);
+                    if (string.IsNullOrEmpty(strUserId))
+                    {
+                        MetroMessageBox.Show(this, "접속실패", "로그인실패", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+                    else
+                    {
+                        var updateQuery = $@"UPDATE membertbl SET
+                                            lastLoginDt = GETDATE()
+                                           ,loginIpAddr = '{Helper.Common.GetLocalIp()}'
+                                            WHERE userId = '{strUserId}' "; // 2) 로그인정보 남기기
+                        cmd.CommandText = updateQuery;
+                        cmd.ExecuteNonQuery();
+                        MetroMessageBox.Show(this, "접속성공", "로그인성공", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        this.Close();
+                    }
                 }
             }
             catch (Exception ex)
