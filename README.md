@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&width=500&section=header&text=StudyDesktopApp%20&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&width=800&section=header&text=StudyDesktopApp%20&fontSize=50&animation=fadeIn&fontAlignY=38)
 <p align='center'> List </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
