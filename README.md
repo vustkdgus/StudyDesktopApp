@@ -8,11 +8,8 @@
   <a href="#RGBColorScrollerTemplate">
     <img src="https://img.shields.io/badge/RGB Color Scroller%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
-  <a href="#Calculator">
-    <img src="https://img.shields.io/badge/Calculator%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#DBLogin">
-    <img src="https://img.shields.io/badge/#DB Login%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
 
