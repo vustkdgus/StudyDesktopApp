@@ -2,10 +2,10 @@
 <p align='center'><b> C# 데스크톱 앱 개발 학습 리포지토리 </b></p>
 <p align='center'>
    <br>
-   <a href=#>
+   <a href="WinformBasic">
     <img src="https://img.shields.io/badge/Windows Form App%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
-  <a href=#>
+  <a href="WPF">
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
@@ -24,8 +24,7 @@
  - [도서대여 시스템](#도서대여시스템)
 
 
-# Winform Basic
-
+# Winform Basic<a="WinformBasic">
 
 ## Login App Template<a id= "LoginAppTemplate">
 
@@ -45,7 +44,7 @@
 
 <br>
 
-# Winform Basic
+# WPF<a="WPF">
 
 <br>
 
