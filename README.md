@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=StudyDesktopApp%20&fontSize=50&animation=fadeIn&fontAlignY=38<br>)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=StudyDesktopApp%20&fontSize=50&animation=fadeIn&fontAlignY=38)
+<p align='center'> C# 데스크톱 앱 개발 학습 리포지토리 </p>
 <p align='center'> List </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
@@ -10,7 +11,7 @@
 </p>
 
 # StudyDesktopApp
-C# 데스크톱 앱 개발 학습 리포지토리
+
 
 <hr>
 
