@@ -9,13 +9,6 @@
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
-  <a href=#>
-    <img src="https://img.shields.io/badge/Window Form App%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href=#>
-    <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
 
 # StudyDesktopApp
 
