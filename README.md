@@ -14,10 +14,10 @@
 
 
 ## List
-- WinForm
- + [Login App Template](#LoginAppTemplate)
- + [RGB Color Scroller Template](#RGBColorScrollerTemplate)
- + [Calculator](#Calculator)
++ WinForm
+ - [Login App Template](#LoginAppTemplate)
+ - [RGB Color Scroller Template](#RGBColorScrollerTemplate)
+ - [Calculator](#Calculator)
 + WPF  
  - [DB Login](#DBLogin)
  - [IoTSensor Monitoring](#IoTSensorMonitoring)
