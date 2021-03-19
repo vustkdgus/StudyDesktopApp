@@ -4,7 +4,7 @@ C# 데스크톱 앱 개발 학습 리포지토리
 ## Winform Basic
 
 ## Types
-- [Login App Template](#Login App Template)
+- [Login App Template] (#Login App Template)
 - [RGB Color Scroller Template](#RGB Color Scroller Template)
 - [Calculator](#Calculator)
 - [DB Login](#DB Login)
