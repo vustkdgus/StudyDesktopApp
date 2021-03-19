@@ -3,7 +3,7 @@
 <p align='center'><b> List </b></p>
 <p align='center'>
   <a href="#LoginAppTemplate">
-    <img src="https://img.shields.io/badge/Login App Template%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Login App Template%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href="#demo">
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
