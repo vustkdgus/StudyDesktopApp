@@ -24,7 +24,7 @@
  - [도서대여 시스템](#도서대여시스템)
 
 
-# Winform Basic<a="WinformBasic">
+# Winform Basic<a id="WinformBasic">
 
 ## Login App Template<a id= "LoginAppTemplate">
 
@@ -44,7 +44,7 @@
 
 <br>
 
-# WPF<a="WPF">
+# WPF<a id="WPF">
 
 <br>
 
