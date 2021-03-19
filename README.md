@@ -2,8 +2,8 @@
 C# 데스크톱 앱 개발 학습 리포지토리
 
 ## Winform Basic
-
-## Types
+---------------
+## List
 - [Login App Template] (#LoginAppTemplate)
 - [RGB Color Scroller Template](#RGBColorScrollerTemplate)
 - [Calculator](#Calculator)
@@ -17,7 +17,7 @@ C# 데스크톱 앱 개발 학습 리포지토리
 
 <br>
 
-RGB Color Scroller Template <a id = "RGB ColorScrollerTemplate">
+RGB Color Scroller Template <a id = "RGBColorScrollerTemplate">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/RGB%20Color%20Scroller.png > </img>
 
