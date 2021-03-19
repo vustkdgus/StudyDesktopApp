@@ -1,6 +1,8 @@
 # StudyDesktopApp
 C# 데스크톱 앱 개발 학습 리포지토리
 
+<hr>
+
 ## List
 - [Login App Template](#LoginAppTemplate)
 - [RGB Color Scroller Template](#RGBColorScrollerTemplate)
@@ -44,7 +46,6 @@ C# 데스크톱 앱 개발 학습 리포지토리
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Monitoring.png> </img>
 
 <br>
-<hr>
 
 ### 도서대여 시스템 <a id = "도서대여시스템">
 ---------------
