@@ -46,8 +46,6 @@
 
 # WPF<a id="WPF1">
 
-<br>
-
 ## DB Login <a id ="DBLogin">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/LoginPage.png> </img>
