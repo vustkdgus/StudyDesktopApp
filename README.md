@@ -2,7 +2,6 @@
 <p align='center'><b> C# 데스크톱 앱 개발 학습 리포지토리 </b></p>
 <p align='center'>
    <br>
-   <br>
    <a href=#>
     <img src="https://img.shields.io/badge/Window Form App%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
@@ -10,6 +9,8 @@
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
+<br>
+<br>
 
 # StudyDesktopApp
 
