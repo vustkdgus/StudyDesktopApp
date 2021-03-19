@@ -19,9 +19,10 @@
  - [RGB Color Scroller Template](#RGBColorScrollerTemplate)
  - [Calculator](#Calculator)
  - [도서대여 시스템](#도서대여시스템)
+ - [IoTSensor Monitoring](#IoTSensorMonitoring)
 ### WPF  
  - [DB Login](#DBLogin)
- - [IoTSensor Monitoring](#IoTSensorMonitoring)
+
  
 <br>
 <br>
@@ -45,6 +46,12 @@
 ## Calculator <a id = "Calculator">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Calculator.png > </img>
+
+<br>
+
+## IoTSensor Monitoring <a id = "IoTSensorMonitoring">
+
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Monitoring.png> </img>
 
 <br>
 
@@ -72,14 +79,5 @@
 ## DB Login <a id ="DBLogin">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/LoginPage.png> </img>
-
-<br>
-
-## IoTSensor Monitoring <a id = "IoTSensorMonitoring">
-
-<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Monitoring.png> </img>
-
-
-
 
 
