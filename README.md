@@ -4,20 +4,20 @@ C# 데스크톱 앱 개발 학습 리포지토리
 ## Winform Basic
 
 ## Types
-- [Login App Template] (#Login App Template)
-- [RGB Color Scroller Template](#RGB Color Scroller Template)
+- [Login App Template] (#LoginAppTemplate)
+- [RGB Color Scroller Template](#RGBColorScrollerTemplate)
 - [Calculator](#Calculator)
-- [DB Login](#DB Login)
-- [IoTSensor Monitoring](#IoTSensor Monitoring)
-- [도서대여 시스템](#도서대여 시스템)
+- [DB Login](#DBLogin)
+- [IoTSensor Monitoring](#IoTSensorMonitoring)
+- [도서대여 시스템](#도서대여시스템)
 
-## Login App Template <a id="Login App Template">
+## Login App Template <a id="LoginAppTemplate">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Login.png > </img>
 
 <br>
 
-RGB Color Scroller Template <a id = "RGB Color Scroller Template">
+RGB Color Scroller Template <a id = "RGB ColorScrollerTemplate">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/RGB%20Color%20Scroller.png > </img>
 
@@ -29,20 +29,20 @@ Calculator <a id = "Calculator">
 
 <br>
 
-DB Login <a id ="DB Login">
+DB Login <a id ="DBLogin">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/LoginPage.png> </img>
 
 <br>
 
-IoTSensor Monitoring <a id = "IoTSensor Monitoring">
+IoTSensor Monitoring <a id = "IoTSensorMonitoring">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Monitoring.png> </img>
 
 <br>
 <hr>
 
-### 도서대여 시스템 <a id = "도서대여 시스템">
+### 도서대여 시스템 <a id = "도서대여시스템">
 
 로그인페이지
 
