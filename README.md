@@ -5,7 +5,7 @@
    <a href=#WinformBasic>
     <img src="https://img.shields.io/badge/Windows Form App%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
-  <a href=#WPF>
+  <a href=#WPF1>
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
@@ -44,7 +44,7 @@
 
 <br>
 
-# WPF<a id="WPF">
+# WPF<a id="WPF1">
 
 <br>
 
