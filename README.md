@@ -18,11 +18,11 @@
  - [Login App Template](#LoginAppTemplate)
  - [RGB Color Scroller Template](#RGBColorScrollerTemplate)
  - [Calculator](#Calculator)
+ - [도서대여 시스템](#도서대여시스템)
 ### WPF  
  - [DB Login](#DBLogin)
  - [IoTSensor Monitoring](#IoTSensorMonitoring)
- - [도서대여 시스템](#도서대여시스템)
-
+ 
 
 # Winform Basic <a id="WinformBasic">
 <hr>
@@ -45,21 +45,6 @@
 
 <br>
 
-# WPF<a id="WPF1">
-   <hr>
-
-## DB Login <a id ="DBLogin">
-
-<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/LoginPage.png> </img>
-
-<br>
-
-## IoTSensor Monitoring <a id = "IoTSensorMonitoring">
-
-<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Monitoring.png> </img>
-
-<br>
-
 ## 도서대여 시스템 <a id = "도서대여시스템">
 
 로그인페이지
@@ -74,6 +59,21 @@
 대여관리
 
 ![img_20210319_100302_001](https://user-images.githubusercontent.com/38821846/111717816-30353080-889c-11eb-8e76-2716dca450f6.png)
+
+# WPF<a id="WPF1">
+   <hr>
+
+## DB Login <a id ="DBLogin">
+
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/LoginPage.png> </img>
+
+<br>
+
+## IoTSensor Monitoring <a id = "IoTSensorMonitoring">
+
+<img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Monitoring.png> </img>
+
+
 
 
 
