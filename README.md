@@ -2,11 +2,8 @@
 <p align='center'> C# 데스크톱 앱 개발 학습 리포지토리 </p>
 <p align='center'><b> List </b></p>
 <p align='center'>
-  <a href="#LoginAppTemplate">
-    <img src="https://img.shields.io/badge/Login App Template%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#RGBColorScrollerTemplate">
-    <img src="https://img.shields.io/badge/RGB Color Scroller%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  <a href=#>
+    <img src="https://img.shields.io/badge/Window Form App%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href=#>
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
