@@ -24,7 +24,7 @@
  - [도서대여 시스템](#도서대여시스템)
 
 
-<b>Winform Basic</b><a id="WinformBasic" &fontSize=100>
+Winform Basic<a id="WinformBasic" &fontSize=100>
 <hr>
 
 ## Login App Template<a id= "LoginAppTemplate">
