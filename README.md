@@ -3,7 +3,7 @@
 <p align='center'>
    <br>
    <a href=#>
-    <img src="https://img.shields.io/badge/Window Form App%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows Form App%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href=#>
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
@@ -14,12 +14,14 @@
 
 
 ## List
-- [Login App Template](#LoginAppTemplate)
-- [RGB Color Scroller Template](#RGBColorScrollerTemplate)
-- [Calculator](#Calculator)
-- [DB Login](#DBLogin)
-- [IoTSensor Monitoring](#IoTSensorMonitoring)
-- [도서대여 시스템](#도서대여시스템)
++ WinForm
+ - [Login App Template](#LoginAppTemplate)
+ - [RGB Color Scroller Template](#RGBColorScrollerTemplate)
+ - [Calculator](#Calculator)
++ WPF  
+ - [DB Login](#DBLogin)
+ - [IoTSensor Monitoring](#IoTSensorMonitoring)
+ - [도서대여 시스템](#도서대여시스템)
 
 
 # Winform Basic
