@@ -12,10 +12,6 @@
 <br>
 <br>
 
-# StudyDesktopApp
-
-
-<hr>
 
 ## List
 - [Login App Template](#LoginAppTemplate)
