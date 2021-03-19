@@ -23,7 +23,7 @@ RGB Color Scroller Template <a id = "RGB Color Scroller Template">
 
 <br>
 
-Calculator <a id = "Calculator>
+Calculator <a id = "Calculator">
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/Calculator.png > </img>
 
