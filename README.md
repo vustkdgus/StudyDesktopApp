@@ -25,6 +25,7 @@
 
 
 # Winform Basic<a id="WinformBasic">
+<hr>
 
 ## Login App Template<a id= "LoginAppTemplate">
 
@@ -45,6 +46,7 @@
 <br>
 
 # WPF<a id="WPF1">
+   <hr>
 
 ## DB Login <a id ="DBLogin">
 
