@@ -32,5 +32,7 @@ namespace WpfPracticeApp
             car.Speed = 10;
             car.MainColor = Colors.Red;
         }
+
+     
     }
 }
