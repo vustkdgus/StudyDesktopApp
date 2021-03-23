@@ -29,7 +29,7 @@
 
 # Winform Basic <a id="WinformBasic">
    
-[Winform Basic ](https://github.com/vustkdgus/StudyDesktopApp/tree/main/WinformApp)
+[Winform Basic 소스](https://github.com/vustkdgus/StudyDesktopApp/tree/main/WinformApp)
    
 <hr>
 
