@@ -31,7 +31,6 @@
    
 [Winform Basic 소스](https://github.com/vustkdgus/StudyDesktopApp/tree/main/WinformApp)
    
-<br>
 
 ## Login App Template<a id= "LoginAppTemplate">
 
@@ -74,12 +73,14 @@
 
 <br>
 <br>
+<hr>
+
 
 # WPF<a id="WPF1">
    
 [WPF 소스](https://github.com/vustkdgus/StudyDesktopApp/tree/main/WPFApp/WpfAdvBank)
    
-   <hr>
+  
 
 ## DB Login <a id ="DBLogin">
 
