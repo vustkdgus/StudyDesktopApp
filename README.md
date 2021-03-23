@@ -25,13 +25,13 @@
  - [Modern UI Test](#ModerUITest)
  - [Photo Sensor Monitoring](#PhotoSensorMonitoring)
 
-<br>
+<hr>
 
 # Winform Basic <a id="WinformBasic">
    
 [Winform Basic 소스](https://github.com/vustkdgus/StudyDesktopApp/tree/main/WinformApp)
    
-<hr>
+<br>
 
 ## Login App Template<a id= "LoginAppTemplate">
 
