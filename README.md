@@ -80,6 +80,8 @@
 
 <img src =https://github.com/vustkdgus/StudyDesktopApp/blob/main/image/LoginPage.png> </img>
 
+<br>
+
 ## Modern UI Test <a id = "ModerUITest">
 
 ![img_20210323_160331_001](https://user-images.githubusercontent.com/38821846/112112408-d6fd3200-8bf8-11eb-9c80-6eced78552e9.png)
