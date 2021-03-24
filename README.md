@@ -24,7 +24,7 @@
  - [DB Login](#DBLogin)
  - [Modern UI Test](#ModerUITest)
  - [Photo Sensor Monitoring](#PhotoSensorMonitoring)
- - [미세먼지 ](#FineDustMonApp)
+ - [미세먼지 모니터링 앱](#FineDustMonApp)
 
 <hr>
 
